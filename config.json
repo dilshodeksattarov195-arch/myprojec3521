@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productstringify",
+        "uuid": 18104982,
+        "checksum": "c28mei"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
